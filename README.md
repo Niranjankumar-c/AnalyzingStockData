@@ -3,7 +3,7 @@ This project is part of my udemy course [Python for data science and machine lea
 
 > We'll focus on bank stocks and see how they progressed throughout the [financial crisis](https://bit.ly/1HcGZQr) all the way to early 2016.
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![HitCount](http://hits.dwyl.io/Niranjankumar-c/AnalyzingStockData.svg)](http://hits.dwyl.io/Niranjankumar-c/AnalyzingStockData) 
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) 
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Note` : Github doesn’t render iframes at the moment. Plotly graphs present in the code file donot show up in github. Click on [FinanceProject Stock Data](https://bit.ly/2OifFrK) to view the plotly interactive graphs using nbviewer.
 
